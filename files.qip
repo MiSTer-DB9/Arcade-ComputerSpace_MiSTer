@@ -11,5 +11,3 @@ set_global_assignment -name VHDL_FILE rtl/computer_space_sound.vhd
 set_global_assignment -name VHDL_FILE rtl/computer_space_logic.vhd
 set_global_assignment -name VHDL_FILE rtl/computer_space_top.vhd
 set_global_assignment -name SYSTEMVERILOG_FILE "Arcade-ComputerSpace.sv"
-set_global_assignment -name VERILOG_FILE rtl/joydb9md.v
-set_global_assignment -name VERILOG_FILE rtl/joydb15.v
